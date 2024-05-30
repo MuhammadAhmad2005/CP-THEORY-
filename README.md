@@ -52,7 +52,6 @@ int main() {
 			cout << temperature << " Celsius is equal to " <<
 				CelsiusToFahrenheit(temperature) << " Fahrenheit\n";
 			break;
-
 		case 'b':
 			cout << "Enter the Temperature in Fahrenheit:\t";
 			cin >> temperature;
